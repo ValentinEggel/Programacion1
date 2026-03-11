@@ -1,0 +1,4 @@
+
+print("Hola,¿cómo es tu nombre?")
+nombre= input()
+print(f"¡Hola {nombre}!")
