@@ -3,7 +3,7 @@ Este repositorio es mi "laboratorio" personal, donde estoy migrando mis conocimi
 ## Roadmap de Aprendizaje
 - [ ] **Python** 
 - [ ] **C** 
-- [ ] **C#** 
 - [ ] **SQL** 
+- [ ] **JAVA** 
 - [ ] **HTML/CSS** 
 
